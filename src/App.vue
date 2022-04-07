@@ -1,6 +1,7 @@
 <template>
   <section class="container">
     <user-data
+      class="test"
       :first-name="firstName"
       :last-name="lastName"
       :age="age"
